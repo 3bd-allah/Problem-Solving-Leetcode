@@ -20,7 +20,7 @@ namespace IsPalindrom
             {
                 str += c;
             }
-            Console.WriteLine(str);
+            Console.WriteLine(str); 
             foreach(char c in str.Reverse()) {
                 reverseStr += c;
             }

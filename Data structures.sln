@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrayLeetcodePro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrom", "IsPalindrom\IsPalindrom.csproj", "{27FD7AD2-EC0A-4CA1-88E0-A7EC4F1904E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{BE556DD8-BACF-422B-9F39-2628DA49278A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{27FD7AD2-EC0A-4CA1-88E0-A7EC4F1904E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FD7AD2-EC0A-4CA1-88E0-A7EC4F1904E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FD7AD2-EC0A-4CA1-88E0-A7EC4F1904E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
