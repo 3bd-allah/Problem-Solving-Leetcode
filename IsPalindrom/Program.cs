@@ -6,8 +6,22 @@ namespace IsPalindrom
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(IsPalindrome("A man, a plan, a canal: Panama"));
+            //Console.WriteLine(IsPalindrome("A man, a plan, a canal: Panama"));
+
+
+            int[] array = { 4, 6, 23, 10, 1, 3 };
+
+            foreach (var n in array)
+                Console.WriteLine(n);
+            Console.WriteLine("==================");
+            Array.Sort(array);
+            foreach (var n in array)
+                Console.WriteLine(n);
+
+
         }
+
+
         public static bool IsPalindrome(string s)
         {
             char[] arr = s.ToCharArray();

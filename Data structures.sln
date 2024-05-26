@@ -7,11 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data structures", "Data str
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoNumbersLeetcodeProblem", "AddTwoNumbersLeetcodeProblem\AddTwoNumbersLeetcodeProblem.csproj", "{CA284AD8-08BE-4BBF-92FD-35C9C27BF7D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrayLeetcodeProblem", "MergeSortedArrayLeetcodeProblem\MergeSortedArrayLeetcodeProblem.csproj", "{946BEB98-1233-45C7-91E7-25006968B7BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArrayLeetcodeProblem", "MergeSortedArrayLeetcodeProblem\MergeSortedArrayLeetcodeProblem.csproj", "{946BEB98-1233-45C7-91E7-25006968B7BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrom", "IsPalindrom\IsPalindrom.csproj", "{27FD7AD2-EC0A-4CA1-88E0-A7EC4F1904E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrom", "IsPalindrom\IsPalindrom.csproj", "{27FD7AD2-EC0A-4CA1-88E0-A7EC4F1904E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{BE556DD8-BACF-422B-9F39-2628DA49278A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{BE556DD8-BACF-422B-9F39-2628DA49278A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayChanllengeBinaryTree", "ArrayChanllengeBinaryTree\ArrayChanllengeBinaryTree.csproj", "{D9C7D319-0D72-4DF8-9957-A259A24F7294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array\Remove Duplicates from Sorted Array.csproj", "{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE556DD8-BACF-422B-9F39-2628DA49278A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C7D319-0D72-4DF8-9957-A259A24F7294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C7D319-0D72-4DF8-9957-A259A24F7294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C7D319-0D72-4DF8-9957-A259A24F7294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C7D319-0D72-4DF8-9957-A259A24F7294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
