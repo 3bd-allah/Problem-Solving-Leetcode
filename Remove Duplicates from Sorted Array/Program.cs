@@ -22,9 +22,9 @@ namespace Remove_Duplicates_from_Sorted_Array
                 if (set.Add(nums[i])) 
                     continue;
             }
-            //set.CopyTo(nums);
+            set.CopyTo(nums);
 
-            foreach(var n in set)
+            foreach(var n in nums)
                 Console.WriteLine(n);
             Console.WriteLine("===================");
 

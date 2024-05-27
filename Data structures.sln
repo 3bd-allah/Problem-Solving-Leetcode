@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayChanllengeBinaryTree", "ArrayChanllengeBinaryTree\ArrayChanllengeBinaryTree.csproj", "{D9C7D319-0D72-4DF8-9957-A259A24F7294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array\Remove Duplicates from Sorted Array.csproj", "{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array\Remove Duplicates from Sorted Array.csproj", "{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumUsingHashTable", "TwoSumUsingHashTable\TwoSumUsingHashTable.csproj", "{B0B89465-3429-4157-B46D-41A89ACE24FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A5BBEF4-7110-4408-BD7D-1FC24A6022D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B89465-3429-4157-B46D-41A89ACE24FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B89465-3429-4157-B46D-41A89ACE24FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B89465-3429-4157-B46D-41A89ACE24FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B89465-3429-4157-B46D-41A89ACE24FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
